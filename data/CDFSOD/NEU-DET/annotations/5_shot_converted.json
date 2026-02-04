@@ -1,0 +1,284 @@
+{
+  "crazing": [
+    {
+      "image": "CDFSOD/NEU-DET/train/crazing_146.jpg",
+      "bbox": [
+        43.0,
+        109.0,
+        52.0,
+        84.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/crazing_77.jpg",
+      "bbox": [
+        25.0,
+        27.0,
+        158.0,
+        136.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/crazing_193.jpg",
+      "bbox": [
+        15.0,
+        34.0,
+        141.0,
+        110.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/crazing_210.jpg",
+      "bbox": [
+        4.0,
+        41.0,
+        77.0,
+        100.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/crazing_171.jpg",
+      "bbox": [
+        96.0,
+        9.0,
+        96.0,
+        80.0
+      ]
+    }
+  ],
+  "inclusion": [
+    {
+      "image": "CDFSOD/NEU-DET/train/inclusion_106.jpg",
+      "bbox": [
+        75.0,
+        10.0,
+        51.0,
+        188.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/inclusion_236.jpg",
+      "bbox": [
+        14.0,
+        12.0,
+        58.0,
+        80.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/inclusion_185.jpg",
+      "bbox": [
+        27.0,
+        1.0,
+        52.0,
+        182.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/inclusion_79.jpg",
+      "bbox": [
+        17.0,
+        6.0,
+        48.0,
+        190.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/inclusion_268.jpg",
+      "bbox": [
+        133.0,
+        1.0,
+        38.0,
+        198.0
+      ]
+    }
+  ],
+  "patches": [
+    {
+      "image": "CDFSOD/NEU-DET/train/patches_62.jpg",
+      "bbox": [
+        89.0,
+        34.0,
+        33.0,
+        92.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/patches_13.jpg",
+      "bbox": [
+        64.0,
+        69.0,
+        52.0,
+        109.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/patches_9.jpg",
+      "bbox": [
+        65.0,
+        66.0,
+        74.0,
+        72.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/patches_135.jpg",
+      "bbox": [
+        73.0,
+        27.0,
+        37.0,
+        67.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/patches_23.jpg",
+      "bbox": [
+        90.0,
+        1.0,
+        67.0,
+        197.0
+      ]
+    }
+  ],
+  "pitted_surface": [
+    {
+      "image": "CDFSOD/NEU-DET/train/pitted_surface_177.jpg",
+      "bbox": [
+        1.0,
+        13.0,
+        197.0,
+        177.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/pitted_surface_153.jpg",
+      "bbox": [
+        16.0,
+        1.0,
+        118.0,
+        157.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/pitted_surface_11.jpg",
+      "bbox": [
+        2.0,
+        37.0,
+        176.0,
+        160.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/pitted_surface_152.jpg",
+      "bbox": [
+        4.0,
+        2.0,
+        188.0,
+        194.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/pitted_surface_52.jpg",
+      "bbox": [
+        1.0,
+        1.0,
+        198.0,
+        199.0
+      ]
+    }
+  ],
+  "rolled-in_scale": [
+    {
+      "image": "CDFSOD/NEU-DET/train/rolled-in_scale_14.jpg",
+      "bbox": [
+        98.0,
+        22.0,
+        50.0,
+        91.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/rolled-in_scale_220.jpg",
+      "bbox": [
+        19.0,
+        125.0,
+        112.0,
+        67.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/rolled-in_scale_218.jpg",
+      "bbox": [
+        69.0,
+        28.0,
+        77.0,
+        128.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/rolled-in_scale_68.jpg",
+      "bbox": [
+        82.0,
+        113.0,
+        118.0,
+        87.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/rolled-in_scale_94.jpg",
+      "bbox": [
+        86.0,
+        9.0,
+        68.0,
+        153.0
+      ]
+    }
+  ],
+  "scratches": [
+    {
+      "image": "CDFSOD/NEU-DET/train/scratches_281.jpg",
+      "bbox": [
+        40.0,
+        16.0,
+        159.0,
+        25.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/scratches_185.jpg",
+      "bbox": [
+        89.0,
+        1.0,
+        27.0,
+        199.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/scratches_80.jpg",
+      "bbox": [
+        139.0,
+        1.0,
+        13.0,
+        198.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/scratches_169.jpg",
+      "bbox": [
+        128.0,
+        4.0,
+        19.0,
+        195.0
+      ]
+    },
+    {
+      "image": "CDFSOD/NEU-DET/train/scratches_17.jpg",
+      "bbox": [
+        153.0,
+        87.0,
+        14.0,
+        89.0
+      ]
+    }
+  ]
+}

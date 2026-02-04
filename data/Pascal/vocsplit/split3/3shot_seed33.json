@@ -1,0 +1,147 @@
+{
+  "cat": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_000616.jpg",
+      "bbox": [
+        50,
+        97,
+        340,
+        224
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003656.jpg",
+      "bbox": [
+        33,
+        36,
+        57,
+        47
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004328.jpg",
+      "bbox": [
+        85,
+        368,
+        104,
+        81
+      ]
+    }
+  ],
+  "motorbike": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/001899.jpg",
+      "bbox": [
+        166,
+        205,
+        58,
+        83
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004036.jpg",
+      "bbox": [
+        243,
+        133,
+        82,
+        66
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_000719.jpg",
+      "bbox": [
+        100,
+        139,
+        331,
+        178
+      ]
+    }
+  ],
+  "boat": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_002754.jpg",
+      "bbox": [
+        285,
+        27,
+        91,
+        143
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_002117.jpg",
+      "bbox": [
+        26,
+        21,
+        310,
+        407
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_002281.jpg",
+      "bbox": [
+        408,
+        182,
+        47,
+        34
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003963.jpg",
+      "bbox": [
+        269,
+        229,
+        127,
+        129
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_000653.jpg",
+      "bbox": [
+        31,
+        106,
+        445,
+        178
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_001440.jpg",
+      "bbox": [
+        182,
+        191,
+        155,
+        115
+      ]
+    }
+  ],
+  "sheep": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_002624.jpg",
+      "bbox": [
+        140,
+        144,
+        59,
+        46
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/008116.jpg",
+      "bbox": [
+        318,
+        154,
+        90,
+        175
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/002648.jpg",
+      "bbox": [
+        238,
+        147,
+        111,
+        77
+      ]
+    }
+  ]
+}

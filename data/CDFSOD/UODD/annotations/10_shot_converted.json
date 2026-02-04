@@ -1,0 +1,278 @@
+{
+  "seacucumber": [
+    {
+      "image": "CDFSOD/UODD/train/004437.jpg",
+      "bbox": [
+        331,
+        120,
+        57,
+        55
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/001590.jpg",
+      "bbox": [
+        523,
+        223,
+        197,
+        126
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/001590.jpg",
+      "bbox": [
+        0,
+        158,
+        93,
+        91
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004165.jpg",
+      "bbox": [
+        257,
+        197,
+        67,
+        20
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/003996.jpg",
+      "bbox": [
+        312,
+        26,
+        88,
+        55
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/002859.jpg",
+      "bbox": [
+        244,
+        257,
+        91,
+        43
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/002236.jpg",
+      "bbox": [
+        272,
+        102,
+        21,
+        23
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/003719.jpg",
+      "bbox": [
+        172,
+        267,
+        50,
+        33
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/003586.jpg",
+      "bbox": [
+        164,
+        198,
+        65,
+        31
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/003586.jpg",
+      "bbox": [
+        248,
+        228,
+        27,
+        38
+      ]
+    }
+  ],
+  "scallop": [
+    {
+      "image": "CDFSOD/UODD/train/003200.jpg",
+      "bbox": [
+        275,
+        278,
+        40,
+        22
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/000648.jpg",
+      "bbox": [
+        262,
+        83,
+        133,
+        89
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/000648.jpg",
+      "bbox": [
+        0,
+        63,
+        106,
+        90
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004749.jpg",
+      "bbox": [
+        1029,
+        353,
+        107,
+        94
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/003460.jpg",
+      "bbox": [
+        131,
+        173,
+        19,
+        19
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004337.jpg",
+      "bbox": [
+        277,
+        247,
+        35,
+        28
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/000290.jpg",
+      "bbox": [
+        146,
+        186,
+        122,
+        112
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/000290.jpg",
+      "bbox": [
+        523,
+        114,
+        86,
+        68
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/000290.jpg",
+      "bbox": [
+        551,
+        56,
+        95,
+        89
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/000290.jpg",
+      "bbox": [
+        229,
+        0,
+        80,
+        58
+      ]
+    }
+  ],
+  "seaurchin": [
+    {
+      "image": "CDFSOD/UODD/train/004541.jpg",
+      "bbox": [
+        285,
+        38,
+        39,
+        35
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/002889.jpg",
+      "bbox": [
+        288,
+        39,
+        50,
+        21
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/002793.jpg",
+      "bbox": [
+        82,
+        50,
+        95,
+        91
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/002117.jpg",
+      "bbox": [
+        309,
+        127,
+        44,
+        36
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004609.jpg",
+      "bbox": [
+        162,
+        162,
+        33,
+        26
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004594.jpg",
+      "bbox": [
+        225,
+        53,
+        35,
+        22
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004594.jpg",
+      "bbox": [
+        131,
+        113,
+        27,
+        23
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004594.jpg",
+      "bbox": [
+        157,
+        182,
+        26,
+        21
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004594.jpg",
+      "bbox": [
+        149,
+        263,
+        37,
+        29
+      ]
+    },
+    {
+      "image": "CDFSOD/UODD/train/004594.jpg",
+      "bbox": [
+        87,
+        80,
+        24,
+        20
+      ]
+    }
+  ]
+}

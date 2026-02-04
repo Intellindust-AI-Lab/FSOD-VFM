@@ -1,0 +1,222 @@
+{
+  "sheep": [
+    {
+      "image": "CDFSOD/clipart1k/train/61545482.jpg",
+      "bbox": [
+        58.0,
+        148.0,
+        127.0,
+        82.0
+      ]
+    }
+  ],
+  "chair": [
+    {
+      "image": "CDFSOD/clipart1k/train/196451231.jpg",
+      "bbox": [
+        217.0,
+        172.0,
+        114.0,
+        125.0
+      ]
+    }
+  ],
+  "boat": [
+    {
+      "image": "CDFSOD/clipart1k/train/238735901.jpg",
+      "bbox": [
+        149.0,
+        144.0,
+        38.0,
+        49.0
+      ]
+    }
+  ],
+  "bottle": [
+    {
+      "image": "CDFSOD/clipart1k/train/51587825.jpg",
+      "bbox": [
+        2.0,
+        21.0,
+        202.0,
+        315.0
+      ]
+    }
+  ],
+  "diningtable": [
+    {
+      "image": "CDFSOD/clipart1k/train/578714344.jpg",
+      "bbox": [
+        1.0,
+        95.0,
+        266.0,
+        259.0
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "CDFSOD/clipart1k/train/520764090.jpg",
+      "bbox": [
+        70.0,
+        181.0,
+        273.0,
+        128.0
+      ]
+    }
+  ],
+  "cow": [
+    {
+      "image": "CDFSOD/clipart1k/train/355714681.jpg",
+      "bbox": [
+        176.0,
+        253.0,
+        689.0,
+        555.0
+      ]
+    }
+  ],
+  "motorbike": [
+    {
+      "image": "CDFSOD/clipart1k/train/431777465.jpg",
+      "bbox": [
+        3.0,
+        4.0,
+        406.0,
+        331.0
+      ]
+    }
+  ],
+  "car": [
+    {
+      "image": "CDFSOD/clipart1k/train/468663805.jpg",
+      "bbox": [
+        118.0,
+        294.0,
+        214.0,
+        114.0
+      ]
+    }
+  ],
+  "aeroplane": [
+    {
+      "image": "CDFSOD/clipart1k/train/212536775.jpg",
+      "bbox": [
+        80.0,
+        50.0,
+        145.0,
+        98.0
+      ]
+    }
+  ],
+  "cat": [
+    {
+      "image": "CDFSOD/clipart1k/train/891240248.jpg",
+      "bbox": [
+        121.0,
+        171.0,
+        40.0,
+        69.0
+      ]
+    }
+  ],
+  "train": [
+    {
+      "image": "CDFSOD/clipart1k/train/182665743.jpg",
+      "bbox": [
+        1.0,
+        21.0,
+        302.0,
+        232.0
+      ]
+    }
+  ],
+  "person": [
+    {
+      "image": "CDFSOD/clipart1k/train/161523933.jpg",
+      "bbox": [
+        324.0,
+        52.0,
+        34.0,
+        50.0
+      ]
+    }
+  ],
+  "bicycle": [
+    {
+      "image": "CDFSOD/clipart1k/train/405144309.jpg",
+      "bbox": [
+        370.0,
+        496.0,
+        1482.0,
+        972.0
+      ]
+    }
+  ],
+  "pottedplant": [
+    {
+      "image": "CDFSOD/clipart1k/train/863510537.jpg",
+      "bbox": [
+        148.0,
+        14.0,
+        158.0,
+        285.0
+      ]
+    }
+  ],
+  "bird": [
+    {
+      "image": "CDFSOD/clipart1k/train/540160185.jpg",
+      "bbox": [
+        1.0,
+        50.0,
+        114.0,
+        114.0
+      ]
+    }
+  ],
+  "dog": [
+    {
+      "image": "CDFSOD/clipart1k/train/570680729.jpg",
+      "bbox": [
+        265.0,
+        139.0,
+        315.0,
+        475.0
+      ]
+    }
+  ],
+  "bus": [
+    {
+      "image": "CDFSOD/clipart1k/train/97473702.jpg",
+      "bbox": [
+        75.0,
+        165.0,
+        662.0,
+        330.0
+      ]
+    }
+  ],
+  "tvmonitor": [
+    {
+      "image": "CDFSOD/clipart1k/train/355558482.jpg",
+      "bbox": [
+        20.0,
+        33.0,
+        185.0,
+        228.0
+      ]
+    }
+  ],
+  "horse": [
+    {
+      "image": "CDFSOD/clipart1k/train/862616176.jpg",
+      "bbox": [
+        61.0,
+        47.0,
+        222.0,
+        247.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "cat": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_000616.jpg",
+      "bbox": [
+        50,
+        97,
+        340,
+        224
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003656.jpg",
+      "bbox": [
+        33,
+        36,
+        57,
+        47
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004328.jpg",
+      "bbox": [
+        85,
+        368,
+        104,
+        81
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/000019.jpg",
+      "bbox": [
+        230,
+        87,
+        252,
+        168
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_005463.jpg",
+      "bbox": [
+        12,
+        105,
+        172,
+        121
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004374.jpg",
+      "bbox": [
+        172,
+        69,
+        143,
+        152
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004490.jpg",
+      "bbox": [
+        124,
+        96,
+        202,
+        130
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003546.jpg",
+      "bbox": [
+        131,
+        81,
+        125,
+        146
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_001836.jpg",
+      "bbox": [
+        62,
+        166,
+        200,
+        98
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_004841.jpg",
+      "bbox": [
+        247,
+        144,
+        114,
+        93
+      ]
+    }
+  ],
+  "motorbike": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/001899.jpg",
+      "bbox": [
+        166,
+        205,
+        58,
+        83
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004036.jpg",
+      "bbox": [
+        243,
+        133,
+        82,
+        66
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_000719.jpg",
+      "bbox": [
+        100,
+        139,
+        331,
+        178
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_000109.jpg",
+      "bbox": [
+        292,
+        69,
+        127,
+        127
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_004854.jpg",
+      "bbox": [
+        172,
+        64,
+        142,
+        70
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_002752.jpg",
+      "bbox": [
+        198,
+        146,
+        203,
+        116
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_000214.jpg",
+      "bbox": [
+        230,
+        180,
+        91,
+        118
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_001253.jpg",
+      "bbox": [
+        83,
+        104,
+        207,
+        349
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_001177.jpg",
+      "bbox": [
+        213,
+        164,
+        137,
+        105
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/007174.jpg",
+      "bbox": [
+        237,
+        185,
+        82,
+        85
+      ]
+    }
+  ],
+  "boat": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_002754.jpg",
+      "bbox": [
+        285,
+        27,
+        91,
+        143
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_002117.jpg",
+      "bbox": [
+        26,
+        21,
+        310,
+        407
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_002281.jpg",
+      "bbox": [
+        408,
+        182,
+        47,
+        34
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_001221.jpg",
+      "bbox": [
+        277,
+        314,
+        147,
+        52
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/006079.jpg",
+      "bbox": [
+        163,
+        152,
+        168,
+        60
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/006215.jpg",
+      "bbox": [
+        133,
+        63,
+        159,
+        358
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004921.jpg",
+      "bbox": [
+        141,
+        229,
+        117,
+        88
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_001212.jpg",
+      "bbox": [
+        177,
+        174,
+        62,
+        111
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_002459.jpg",
+      "bbox": [
+        165,
+        167,
+        200,
+        78
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_006586.jpg",
+      "bbox": [
+        119,
+        222,
+        89,
+        49
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003963.jpg",
+      "bbox": [
+        269,
+        229,
+        127,
+        129
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_000653.jpg",
+      "bbox": [
+        31,
+        106,
+        445,
+        178
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_001440.jpg",
+      "bbox": [
+        182,
+        191,
+        155,
+        115
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/008987.jpg",
+      "bbox": [
+        301,
+        128,
+        147,
+        98
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003300.jpg",
+      "bbox": [
+        329,
+        185,
+        120,
+        105
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_001743.jpg",
+      "bbox": [
+        79,
+        144,
+        229,
+        146
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/009290.jpg",
+      "bbox": [
+        125,
+        60,
+        327,
+        147
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_000037.jpg",
+      "bbox": [
+        313,
+        199,
+        108,
+        146
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_004062.jpg",
+      "bbox": [
+        48,
+        103,
+        283,
+        131
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_004901.jpg",
+      "bbox": [
+        72,
+        149,
+        271,
+        62
+      ]
+    }
+  ],
+  "sheep": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_002624.jpg",
+      "bbox": [
+        140,
+        144,
+        59,
+        46
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/008116.jpg",
+      "bbox": [
+        318,
+        154,
+        90,
+        175
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/002648.jpg",
+      "bbox": [
+        238,
+        147,
+        111,
+        77
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/007230.jpg",
+      "bbox": [
+        131,
+        77,
+        109,
+        143
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_000829.jpg",
+      "bbox": [
+        449,
+        17,
+        39,
+        72
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_001732.jpg",
+      "bbox": [
+        285,
+        121,
+        50,
+        100
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_001549.jpg",
+      "bbox": [
+        179,
+        89,
+        214,
+        176
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_000483.jpg",
+      "bbox": [
+        366,
+        165,
+        53,
+        67
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_001768.jpg",
+      "bbox": [
+        70,
+        41,
+        126,
+        342
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_005260.jpg",
+      "bbox": [
+        37,
+        132,
+        301,
+        136
+      ]
+    }
+  ]
+}

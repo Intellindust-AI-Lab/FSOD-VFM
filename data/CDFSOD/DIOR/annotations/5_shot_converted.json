@@ -1,0 +1,942 @@
+{
+  "trainstation": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00743.jpg",
+      "bbox": [
+        165.0,
+        331.0,
+        399.0,
+        108.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00475.jpg",
+      "bbox": [
+        368.0,
+        119.0,
+        95.0,
+        444.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00240.jpg",
+      "bbox": [
+        301.0,
+        153.0,
+        101.0,
+        474.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22829.jpg",
+      "bbox": [
+        106.0,
+        403.0,
+        598.0,
+        113.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19591.jpg",
+      "bbox": [
+        258.0,
+        392.0,
+        434.0,
+        107.0
+      ]
+    }
+  ],
+  "bridge": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22719.jpg",
+      "bbox": [
+        560.0,
+        209.0,
+        72.0,
+        99.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23021.jpg",
+      "bbox": [
+        188.0,
+        24.0,
+        70.0,
+        32.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23021.jpg",
+      "bbox": [
+        344.0,
+        562.0,
+        60.0,
+        21.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12424.jpg",
+      "bbox": [
+        48.0,
+        310.0,
+        26.0,
+        310.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01053.jpg",
+      "bbox": [
+        208.0,
+        321.0,
+        509.0,
+        163.0
+      ]
+    }
+  ],
+  "vehicle": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/21525.jpg",
+      "bbox": [
+        309.0,
+        566.0,
+        38.0,
+        51.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19329.jpg",
+      "bbox": [
+        332.0,
+        0.0,
+        23.0,
+        26.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19329.jpg",
+      "bbox": [
+        384.0,
+        0.0,
+        21.0,
+        38.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05715.jpg",
+      "bbox": [
+        586.0,
+        83.0,
+        32.0,
+        12.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/16150.jpg",
+      "bbox": [
+        204.0,
+        611.0,
+        112.0,
+        60.0
+      ]
+    }
+  ],
+  "groundtrackfield": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/17942.jpg",
+      "bbox": [
+        56.0,
+        354.0,
+        227.0,
+        146.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01414.jpg",
+      "bbox": [
+        91.0,
+        137.0,
+        325.0,
+        556.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/11882.jpg",
+      "bbox": [
+        554.0,
+        34.0,
+        230.0,
+        493.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22402.jpg",
+      "bbox": [
+        486.0,
+        248.0,
+        68.0,
+        67.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22402.jpg",
+      "bbox": [
+        670.0,
+        109.0,
+        82.0,
+        68.0
+      ]
+    }
+  ],
+  "Expressway-toll-station": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22389.jpg",
+      "bbox": [
+        319.0,
+        351.0,
+        159.0,
+        117.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12958.jpg",
+      "bbox": [
+        420.0,
+        348.0,
+        59.0,
+        50.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/18531.jpg",
+      "bbox": [
+        221.0,
+        486.0,
+        284.0,
+        195.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/13776.jpg",
+      "bbox": [
+        470.0,
+        393.0,
+        158.0,
+        170.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19317.jpg",
+      "bbox": [
+        15.0,
+        446.0,
+        148.0,
+        168.0
+      ]
+    }
+  ],
+  "airplane": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/09950.jpg",
+      "bbox": [
+        364.0,
+        371.0,
+        142.0,
+        186.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/13304.jpg",
+      "bbox": [
+        141.0,
+        57.0,
+        330.0,
+        277.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/13304.jpg",
+      "bbox": [
+        153.0,
+        484.0,
+        259.0,
+        268.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/06915.jpg",
+      "bbox": [
+        248.0,
+        233.0,
+        384.0,
+        302.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05767.jpg",
+      "bbox": [
+        346.0,
+        210.0,
+        202.0,
+        269.0
+      ]
+    }
+  ],
+  "ship": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/11418.jpg",
+      "bbox": [
+        462.0,
+        7.0,
+        16.0,
+        12.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/14266.jpg",
+      "bbox": [
+        175.0,
+        42.0,
+        18.0,
+        22.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01205.jpg",
+      "bbox": [
+        274.0,
+        164.0,
+        184.0,
+        564.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/03256.jpg",
+      "bbox": [
+        272.0,
+        231.0,
+        418.0,
+        403.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/03256.jpg",
+      "bbox": [
+        219.0,
+        179.0,
+        126.0,
+        125.0
+      ]
+    }
+  ],
+  "storagetank": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02146.jpg",
+      "bbox": [
+        297.0,
+        236.0,
+        194.0,
+        194.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/04566.jpg",
+      "bbox": [
+        421.0,
+        407.0,
+        77.0,
+        71.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/03448.jpg",
+      "bbox": [
+        397.0,
+        261.0,
+        135.0,
+        115.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02202.jpg",
+      "bbox": [
+        386.0,
+        234.0,
+        232.0,
+        219.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/11940.jpg",
+      "bbox": [
+        470.0,
+        741.0,
+        44.0,
+        30.0
+      ]
+    }
+  ],
+  "harbor": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01676.jpg",
+      "bbox": [
+        220.0,
+        166.0,
+        378.0,
+        561.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/10387.jpg",
+      "bbox": [
+        508.0,
+        21.0,
+        269.0,
+        438.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/10387.jpg",
+      "bbox": [
+        14.0,
+        0.0,
+        381.0,
+        567.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01667.jpg",
+      "bbox": [
+        360.0,
+        101.0,
+        52.0,
+        187.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/18489.jpg",
+      "bbox": [
+        244.0,
+        38.0,
+        543.0,
+        186.0
+      ]
+    }
+  ],
+  "dam": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/15516.jpg",
+      "bbox": [
+        58.0,
+        290.0,
+        620.0,
+        300.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/04635.jpg",
+      "bbox": [
+        318.0,
+        278.0,
+        268.0,
+        340.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/09862.jpg",
+      "bbox": [
+        399.0,
+        16.0,
+        74.0,
+        42.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/08906.jpg",
+      "bbox": [
+        209.0,
+        274.0,
+        417.0,
+        256.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/17661.jpg",
+      "bbox": [
+        364.0,
+        270.0,
+        161.0,
+        384.0
+      ]
+    }
+  ],
+  "chimney": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02168.jpg",
+      "bbox": [
+        303.0,
+        107.0,
+        331.0,
+        294.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05065.jpg",
+      "bbox": [
+        183.0,
+        371.0,
+        177.0,
+        187.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05065.jpg",
+      "bbox": [
+        415.0,
+        404.0,
+        181.0,
+        186.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19298.jpg",
+      "bbox": [
+        121.0,
+        408.0,
+        244.0,
+        174.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19298.jpg",
+      "bbox": [
+        428.0,
+        238.0,
+        238.0,
+        174.0
+      ]
+    }
+  ],
+  "golffield": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23056.jpg",
+      "bbox": [
+        233.0,
+        209.0,
+        491.0,
+        472.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/17902.jpg",
+      "bbox": [
+        172.0,
+        214.0,
+        510.0,
+        319.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22291.jpg",
+      "bbox": [
+        113.0,
+        123.0,
+        285.0,
+        525.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/18851.jpg",
+      "bbox": [
+        194.0,
+        74.0,
+        490.0,
+        656.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/07769.jpg",
+      "bbox": [
+        72.0,
+        128.0,
+        479.0,
+        594.0
+      ]
+    }
+  ],
+  "windmill": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22252.jpg",
+      "bbox": [
+        443.0,
+        407.0,
+        172.0,
+        154.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12491.jpg",
+      "bbox": [
+        341.0,
+        334.0,
+        75.0,
+        185.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23308.jpg",
+      "bbox": [
+        370.0,
+        385.0,
+        89.0,
+        141.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22856.jpg",
+      "bbox": [
+        334.0,
+        527.0,
+        57.0,
+        116.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02995.jpg",
+      "bbox": [
+        329.0,
+        335.0,
+        174.0,
+        101.0
+      ]
+    }
+  ],
+  "Expressway-Service-area": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23200.jpg",
+      "bbox": [
+        98.0,
+        328.0,
+        474.0,
+        396.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22402.jpg",
+      "bbox": [
+        32.0,
+        104.0,
+        98.0,
+        111.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22402.jpg",
+      "bbox": [
+        61.0,
+        147.0,
+        98.0,
+        105.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05384.jpg",
+      "bbox": [
+        179.0,
+        197.0,
+        419.0,
+        303.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05384.jpg",
+      "bbox": [
+        211.0,
+        359.0,
+        419.0,
+        299.0
+      ]
+    }
+  ],
+  "airport": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02648.jpg",
+      "bbox": [
+        196.0,
+        165.0,
+        530.0,
+        455.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/14473.jpg",
+      "bbox": [
+        417.0,
+        116.0,
+        113.0,
+        518.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/03736.jpg",
+      "bbox": [
+        331.0,
+        109.0,
+        405.0,
+        645.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00213.jpg",
+      "bbox": [
+        123.0,
+        279.0,
+        586.0,
+        188.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19254.jpg",
+      "bbox": [
+        95.0,
+        177.0,
+        100.0,
+        236.0
+      ]
+    }
+  ],
+  "overpass": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00617.jpg",
+      "bbox": [
+        377.0,
+        70.0,
+        85.0,
+        599.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/13656.jpg",
+      "bbox": [
+        76.0,
+        268.0,
+        630.0,
+        248.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/20341.jpg",
+      "bbox": [
+        270.0,
+        98.0,
+        222.0,
+        545.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12724.jpg",
+      "bbox": [
+        38.0,
+        574.0,
+        24.0,
+        16.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12724.jpg",
+      "bbox": [
+        67.0,
+        579.0,
+        37.0,
+        14.0
+      ]
+    }
+  ],
+  "tenniscourt": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/17879.jpg",
+      "bbox": [
+        282.0,
+        484.0,
+        154.0,
+        168.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02220.jpg",
+      "bbox": [
+        229.0,
+        202.0,
+        286.0,
+        173.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23378.jpg",
+      "bbox": [
+        130.0,
+        469.0,
+        139.0,
+        186.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/20424.jpg",
+      "bbox": [
+        451.0,
+        218.0,
+        82.0,
+        165.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/20424.jpg",
+      "bbox": [
+        359.0,
+        222.0,
+        77.0,
+        164.0
+      ]
+    }
+  ],
+  "baseballfield": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/14505.jpg",
+      "bbox": [
+        64.0,
+        598.0,
+        175.0,
+        176.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22984.jpg",
+      "bbox": [
+        115.0,
+        328.0,
+        148.0,
+        151.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05952.jpg",
+      "bbox": [
+        534.0,
+        373.0,
+        137.0,
+        162.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/16180.jpg",
+      "bbox": [
+        580.0,
+        42.0,
+        120.0,
+        127.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/16180.jpg",
+      "bbox": [
+        477.0,
+        394.0,
+        108.0,
+        104.0
+      ]
+    }
+  ],
+  "stadium": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12176.jpg",
+      "bbox": [
+        281.0,
+        334.0,
+        237.0,
+        359.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12201.jpg",
+      "bbox": [
+        271.0,
+        257.0,
+        155.0,
+        264.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02808.jpg",
+      "bbox": [
+        9.0,
+        132.0,
+        783.0,
+        643.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/05018.jpg",
+      "bbox": [
+        86.0,
+        49.0,
+        568.0,
+        676.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22494.jpg",
+      "bbox": [
+        303.0,
+        385.0,
+        73.0,
+        79.0
+      ]
+    }
+  ],
+  "basketballcourt": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/20093.jpg",
+      "bbox": [
+        388.0,
+        134.0,
+        62.0,
+        38.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01918.jpg",
+      "bbox": [
+        151.0,
+        390.0,
+        127.0,
+        169.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/21948.jpg",
+      "bbox": [
+        628.0,
+        311.0,
+        104.0,
+        104.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22711.jpg",
+      "bbox": [
+        385.0,
+        631.0,
+        40.0,
+        45.0
+      ]
+    },
+    {
+      "image": "CDFSOD/DIOR/train/new_train/19717.jpg",
+      "bbox": [
+        433.0,
+        23.0,
+        184.0,
+        109.0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "windmill": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22252.jpg",
+      "bbox": [
+        443.0,
+        407.0,
+        172.0,
+        154.0
+      ]
+    }
+  ],
+  "vehicle": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/21525.jpg",
+      "bbox": [
+        309.0,
+        566.0,
+        38.0,
+        51.0
+      ]
+    }
+  ],
+  "stadium": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/12176.jpg",
+      "bbox": [
+        281.0,
+        334.0,
+        237.0,
+        359.0
+      ]
+    }
+  ],
+  "groundtrackfield": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/17942.jpg",
+      "bbox": [
+        56.0,
+        354.0,
+        227.0,
+        146.0
+      ]
+    }
+  ],
+  "Expressway-Service-area": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23200.jpg",
+      "bbox": [
+        98.0,
+        328.0,
+        474.0,
+        396.0
+      ]
+    }
+  ],
+  "basketballcourt": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/20093.jpg",
+      "bbox": [
+        388.0,
+        134.0,
+        62.0,
+        38.0
+      ]
+    }
+  ],
+  "chimney": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02168.jpg",
+      "bbox": [
+        303.0,
+        107.0,
+        331.0,
+        294.0
+      ]
+    }
+  ],
+  "baseballfield": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/14505.jpg",
+      "bbox": [
+        64.0,
+        598.0,
+        175.0,
+        176.0
+      ]
+    }
+  ],
+  "harbor": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/01676.jpg",
+      "bbox": [
+        220.0,
+        166.0,
+        378.0,
+        561.0
+      ]
+    }
+  ],
+  "airport": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02648.jpg",
+      "bbox": [
+        196.0,
+        165.0,
+        530.0,
+        455.0
+      ]
+    }
+  ],
+  "Expressway-toll-station": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22389.jpg",
+      "bbox": [
+        319.0,
+        351.0,
+        159.0,
+        117.0
+      ]
+    }
+  ],
+  "dam": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/15516.jpg",
+      "bbox": [
+        58.0,
+        290.0,
+        620.0,
+        300.0
+      ]
+    }
+  ],
+  "bridge": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/22719.jpg",
+      "bbox": [
+        560.0,
+        209.0,
+        72.0,
+        99.0
+      ]
+    }
+  ],
+  "tenniscourt": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/17879.jpg",
+      "bbox": [
+        282.0,
+        484.0,
+        154.0,
+        168.0
+      ]
+    }
+  ],
+  "overpass": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00617.jpg",
+      "bbox": [
+        377.0,
+        70.0,
+        85.0,
+        599.0
+      ]
+    }
+  ],
+  "golffield": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/23056.jpg",
+      "bbox": [
+        233.0,
+        209.0,
+        491.0,
+        472.0
+      ]
+    }
+  ],
+  "storagetank": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/02146.jpg",
+      "bbox": [
+        297.0,
+        236.0,
+        194.0,
+        194.0
+      ]
+    }
+  ],
+  "trainstation": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/00743.jpg",
+      "bbox": [
+        165.0,
+        331.0,
+        399.0,
+        108.0
+      ]
+    }
+  ],
+  "airplane": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/09950.jpg",
+      "bbox": [
+        364.0,
+        371.0,
+        142.0,
+        186.0
+      ]
+    }
+  ],
+  "ship": [
+    {
+      "image": "CDFSOD/DIOR/train/new_train/11418.jpg",
+      "bbox": [
+        462.0,
+        7.0,
+        16.0,
+        12.0
+      ]
+    }
+  ]
+}

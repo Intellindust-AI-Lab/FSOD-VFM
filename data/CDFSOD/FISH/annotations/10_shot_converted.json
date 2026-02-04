@@ -1,0 +1,94 @@
+{
+  "fish": [
+    {
+      "image": "CDFSOD/FISH/train/7398_F2_f000000.jpg",
+      "bbox": [
+        234.5,
+        541.0,
+        827.0,
+        314.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/7398_F2_f000011.jpg",
+      "bbox": [
+        723.5,
+        529.0,
+        803.0,
+        260.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/9870_Gerres_f000008.jpg",
+      "bbox": [
+        213.5,
+        439.0,
+        122.99999999999999,
+        62.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/9898_Acanthopagrus_palmaris_f000058.jpg",
+      "bbox": [
+        942.0,
+        259.0,
+        324.0,
+        216.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/9866_acanthopagrus_and_caranx_f000300.jpg",
+      "bbox": [
+        691.5,
+        375.5,
+        387.0,
+        213.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/9866_acanthopagrus_palmaris_f000101.jpg",
+      "bbox": [
+        312.0,
+        416.0,
+        478.0,
+        260.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/9866_acanthopagrus_palmaris_f000240.jpg",
+      "bbox": [
+        408.0,
+        425.0,
+        306.0,
+        300.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/9866_acanthopagrus_palmaris_f000406.jpg",
+      "bbox": [
+        1370.0,
+        297.5,
+        248.00000000000003,
+        249.00000000000003
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/7426_F3_f000000.jpg",
+      "bbox": [
+        245.5,
+        458.0,
+        263.0,
+        328.0
+      ]
+    },
+    {
+      "image": "CDFSOD/FISH/train/7585_F1_f000458.jpg",
+      "bbox": [
+        977.0,
+        572.0,
+        276.0,
+        116.0
+      ]
+    }
+  ]
+}

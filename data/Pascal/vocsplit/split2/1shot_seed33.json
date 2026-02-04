@@ -1,0 +1,57 @@
+{
+  "horse": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_005313.jpg",
+      "bbox": [
+        65,
+        17,
+        135,
+        103
+      ]
+    }
+  ],
+  "aeroplane": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_005534.jpg",
+      "bbox": [
+        167,
+        106,
+        309,
+        124
+      ]
+    }
+  ],
+  "bottle": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_001937.jpg",
+      "bbox": [
+        298,
+        84,
+        57,
+        189
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/005004.jpg",
+      "bbox": [
+        136,
+        30,
+        317,
+        244
+      ]
+    }
+  ],
+  "cow": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_005276.jpg",
+      "bbox": [
+        187,
+        55,
+        61,
+        174
+      ]
+    }
+  ]
+}

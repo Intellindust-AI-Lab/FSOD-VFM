@@ -1,0 +1,68 @@
+{
+  "crazing": [
+    {
+      "image": "CDFSOD/NEU-DET/train/crazing_146.jpg",
+      "bbox": [
+        43.0,
+        109.0,
+        52.0,
+        84.0
+      ]
+    }
+  ],
+  "inclusion": [
+    {
+      "image": "CDFSOD/NEU-DET/train/inclusion_106.jpg",
+      "bbox": [
+        75.0,
+        10.0,
+        51.0,
+        188.0
+      ]
+    }
+  ],
+  "patches": [
+    {
+      "image": "CDFSOD/NEU-DET/train/patches_62.jpg",
+      "bbox": [
+        89.0,
+        34.0,
+        33.0,
+        92.0
+      ]
+    }
+  ],
+  "pitted_surface": [
+    {
+      "image": "CDFSOD/NEU-DET/train/pitted_surface_177.jpg",
+      "bbox": [
+        1.0,
+        13.0,
+        197.0,
+        177.0
+      ]
+    }
+  ],
+  "rolled-in_scale": [
+    {
+      "image": "CDFSOD/NEU-DET/train/rolled-in_scale_14.jpg",
+      "bbox": [
+        98.0,
+        22.0,
+        50.0,
+        91.0
+      ]
+    }
+  ],
+  "scratches": [
+    {
+      "image": "CDFSOD/NEU-DET/train/scratches_281.jpg",
+      "bbox": [
+        40.0,
+        16.0,
+        159.0,
+        25.0
+      ]
+    }
+  ]
+}

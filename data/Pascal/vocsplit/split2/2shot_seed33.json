@@ -1,0 +1,102 @@
+{
+  "horse": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_005313.jpg",
+      "bbox": [
+        65,
+        17,
+        135,
+        103
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/002858.jpg",
+      "bbox": [
+        67,
+        78,
+        224,
+        401
+      ]
+    }
+  ],
+  "aeroplane": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_005534.jpg",
+      "bbox": [
+        167,
+        106,
+        309,
+        124
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_003896.jpg",
+      "bbox": [
+        129,
+        215,
+        112,
+        80
+      ]
+    }
+  ],
+  "bottle": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_001937.jpg",
+      "bbox": [
+        298,
+        84,
+        57,
+        189
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004926.jpg",
+      "bbox": [
+        315,
+        190,
+        38,
+        115
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/005004.jpg",
+      "bbox": [
+        136,
+        30,
+        317,
+        244
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/009051.jpg",
+      "bbox": [
+        53,
+        197,
+        258,
+        109
+      ]
+    }
+  ],
+  "cow": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_005276.jpg",
+      "bbox": [
+        187,
+        55,
+        61,
+        174
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/002505.jpg",
+      "bbox": [
+        144,
+        12,
+        292,
+        261
+      ]
+    }
+  ]
+}

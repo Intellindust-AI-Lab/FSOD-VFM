@@ -1,0 +1,102 @@
+{
+  "bird": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2009_001999.jpg",
+      "bbox": [
+        19,
+        48,
+        216,
+        177
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_006419.jpg",
+      "bbox": [
+        201,
+        182,
+        78,
+        88
+      ]
+    }
+  ],
+  "motorbike": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_006686.jpg",
+      "bbox": [
+        19,
+        34,
+        456,
+        247
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/004601.jpg",
+      "bbox": [
+        150,
+        99,
+        115,
+        217
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_007050.jpg",
+      "bbox": [
+        133,
+        64,
+        288,
+        161
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/009290.jpg",
+      "bbox": [
+        125,
+        60,
+        327,
+        147
+      ]
+    }
+  ],
+  "cow": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2008_004827.jpg",
+      "bbox": [
+        74,
+        228,
+        72,
+        64
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_000548.jpg",
+      "bbox": [
+        371,
+        31,
+        39,
+        99
+      ]
+    }
+  ],
+  "bus": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/007376.jpg",
+      "bbox": [
+        81,
+        143,
+        382,
+        110
+      ]
+    },
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_000551.jpg",
+      "bbox": [
+        73,
+        175,
+        128,
+        36
+      ]
+    }
+  ]
+}

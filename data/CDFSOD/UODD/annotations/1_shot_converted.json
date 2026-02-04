@@ -1,0 +1,35 @@
+{
+  "scallop": [
+    {
+      "image": "CDFSOD/UODD/train/003200.jpg",
+      "bbox": [
+        275,
+        278,
+        40,
+        22
+      ]
+    }
+  ],
+  "seacucumber": [
+    {
+      "image": "CDFSOD/UODD/train/004437.jpg",
+      "bbox": [
+        331,
+        120,
+        57,
+        55
+      ]
+    }
+  ],
+  "seaurchin": [
+    {
+      "image": "CDFSOD/UODD/train/004541.jpg",
+      "bbox": [
+        285,
+        38,
+        39,
+        35
+      ]
+    }
+  ]
+}

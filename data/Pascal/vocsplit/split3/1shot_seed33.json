@@ -1,0 +1,57 @@
+{
+  "cat": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_000616.jpg",
+      "bbox": [
+        50,
+        97,
+        340,
+        224
+      ]
+    }
+  ],
+  "motorbike": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/001899.jpg",
+      "bbox": [
+        166,
+        205,
+        58,
+        83
+      ]
+    }
+  ],
+  "boat": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2011_002754.jpg",
+      "bbox": [
+        285,
+        27,
+        91,
+        143
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "image": "PascalVOC/VOC2007/JPEGImages/003963.jpg",
+      "bbox": [
+        269,
+        229,
+        127,
+        129
+      ]
+    }
+  ],
+  "sheep": [
+    {
+      "image": "PascalVOC/VOC2012/JPEGImages/2010_002624.jpg",
+      "bbox": [
+        140,
+        144,
+        59,
+        46
+      ]
+    }
+  ]
+}
