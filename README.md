@@ -186,8 +186,7 @@ wget https://dl.fbaipublicfiles.com/dinov2/dinov2_vitl14/dinov2_vitl14_pretrain.
 wget https://github.com/IDEA-Research/ChatRex/releases/download/upn-large/upn_large.pth
 ```
 
-* For RADIOv4, download "c-radio_v4-h_half.pth.tar" from [NVlabs/RADIO](https://github.com/NVlabs/RADIO/tree/main) to model_cache/torch_hub/checkpoints.
-* 
+* For RADIOv4, download "c-radio_v4-h_half.pth.tar" from [NVlabs/RADIO](https://github.com/NVlabs/RADIO/tree/main) to /model_cache/torch_hub/checkpoints.
 ---
 
 ## 3. Usage
