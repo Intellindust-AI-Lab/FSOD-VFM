@@ -186,17 +186,21 @@ wget https://dl.fbaipublicfiles.com/dinov2/dinov2_vitl14/dinov2_vitl14_pretrain.
 wget https://github.com/IDEA-Research/ChatRex/releases/download/upn-large/upn_large.pth
 ```
 
+* For RADIOv4, download "c-radio_v4-h_half.pth.tar" from [NVlabs/RADIO](https://github.com/NVlabs/RADIO/tree/main) to model_cache/torch_hub/checkpoints.
+* 
 ---
 
 ## 3. Usage
 
 ### Pascal VOC
 
+**Using DINOv2**
+
 ```bash
 sh run_scripts/run_pascal.sh
 ```
 
-**RADIOv4**
+**Using RADIOv4**
 
 ```bash
 sh run_scripts/run_pascal_radio.sh
@@ -225,11 +229,13 @@ sh run_scripts/run_pascal_radio.sh
 
 ### COCO
 
+**Using DINOv2**
+
 ```bash
 sh run_scripts/run_coco.sh
 ```
 
-**RADIOv4**
+**Using RADIOv4**
 
 ```bash
 sh run_scripts/run_coco_radio.sh
@@ -248,11 +254,13 @@ sh run_scripts/run_coco_radio.sh
 
 ### CD-FSOD
 
+**Using DINOv2**
+
 ```bash
 sh run_scripts/run_cdfsod.sh
 ```
 
-**RADIOv4**
+**Using RADIOv4**
 
 ```bash
 sh run_scripts/run_cdfsod_radio.sh
@@ -293,8 +301,9 @@ If you use **FSOD-VFM** in your research, please cite:
 Our work builds upon excellent open-source projects including
 [No-Time-To-Train](https://github.com/miquel-espinosa/no-time-to-train),
 [SAM2](https://github.com/facebookresearch/sam2/tree/main),
-[ChatRex](https://github.com/IDEA-Research/ChatRex), and
-[DINOv2](https://github.com/facebookresearch/dinov2).
+[ChatRex](https://github.com/IDEA-Research/ChatRex),
+[DINOv2](https://github.com/facebookresearch/dinov2), and
+[RADIOv4](https://github.com/NVlabs/RADIO/tree/main).
 We sincerely thank their authors for their contributions to the community.
 
 
