@@ -1,0 +1,10 @@
+__pycache__
+hf-checkpoints/
+vis_denoise/
+mmseg/work_dirs/
+wandb
+vis_videos
+vis_denoise
+mode-switching_*.csv
+zero_shot_*.csv
+zero-shot_*.csv

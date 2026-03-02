@@ -104,10 +104,13 @@ def extract_support_features(support_data, sam2_predictor, feat_extractor_name, 
     '''
     features = {}
 
-    if feat_extractor_name == 'DINOV2' : 
-         extractor = get_dinov2_features 
+    if feat_extractor_name == 'DINOV2':
+        extractor = get_dinov2_features
+    elif feat_extractor_name == 'RADIO':
+        from model.radio import get_radio_features
+        extractor = get_radio_features
     else:
-         raise ValueError(f"Unsupported feature extractor: {feat_extractor_name}")
+        raise ValueError(f"Unsupported feature extractor: {feat_extractor_name}")
   
 
     for cls, samples in tqdm(support_data.items(), desc='Novel Memory Bank'):

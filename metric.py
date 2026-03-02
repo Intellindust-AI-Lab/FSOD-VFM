@@ -11,12 +11,14 @@ import pycocotools.coco
 import pycocotools.cocoeval
 import torch.nn.functional as F
 import time
+from ensemble_boxes import weighted_boxes_fusion
 import numpy as np
 from scipy.linalg import eigh
 from collections import defaultdict
 import copy
 from torchvision.ops import batched_nms
 import cv2
+from ensemble_boxes import *
 
 
 
@@ -133,8 +135,13 @@ def generate_coco_style_predictions_upn(coco_style_loader,
     name_to_id = {v: k for k, v in id_to_name.items()}
     batch_size = 32  # Process N boxes at a time in SAM2
     results = []
-    if feat_extractor_name == 'DINOV2' : 
-         extractor = support_util.get_dinov2_features 
+    if feat_extractor_name == 'DINOV2':
+        extractor = support_util.get_dinov2_features
+    elif feat_extractor_name == 'RADIO':
+        from model.radio import get_radio_features
+        extractor = get_radio_features
+    else:
+        raise ValueError(f"Unsupported feature extractor: {feat_extractor_name}") 
     
     # upn info
     candid_prompt = ["fine_grained_prompt", "coarse_grained_prompt"]
@@ -178,16 +185,16 @@ def generate_coco_style_predictions_upn(coco_style_loader,
         # 2. with the upn info, to get the candidate mask in iter
         sam2_mask_predictor.set_image(img_pil)
 
-        # Sort boxes and scores by scores in descending order and take top100
+        # Sort boxes and scores by scores in descending order and take top 200
         if len(boxes) > 0 and len(scores) > 0:
             # Create list of (score, box) pairs
             box_score_pairs = list(zip(scores, boxes))
             # Sort by score in descending order
             box_score_pairs.sort(key=lambda x: x[0], reverse=True)
-            # The original version uses top500, the revised version changes to top100, which is faster and better.
-            top_100_pairs = box_score_pairs[:100]
+            # Take top 500, maybe 100 is better
+            top_500_pairs = box_score_pairs[:100]
             # Unzip back to scores and boxes
-            scores, boxes = zip(*top_100_pairs)
+            scores, boxes = zip(*top_500_pairs)
             scores = list(scores)
             boxes = list(boxes)
 
@@ -497,13 +504,3 @@ def run_coco_eval(gt_json_path, prediction_results, pred_json='temp_predictions.
         print(f"Summary saved to: {summary_path}")
     
     return eval_results
-
-
-
-
-
-
-
-
-
-    

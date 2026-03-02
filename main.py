@@ -4,6 +4,7 @@ import torch
 import torch.nn.functional
 import model.dinov2
 import model.sam2
+import model.radio
 import support_util
 import query_util
 import metric
@@ -20,7 +21,7 @@ def parse_args():
                         '--feat_extractor_name',
                         type=str,
                         default='DINOV2',
-                        choices=['DINOV2'],
+                        choices=['DINOV2', 'RADIO'],
                         help='feature extractor name (default: %(default)s)')
 
     parser.add_argument(
@@ -42,6 +43,14 @@ def parse_args():
     parser.add_argument('--dinov2_checkpoint_dir', type=str,
                         default="./checkpoints",
                         help='Directory to pretrained dinov2 checkpoint (default: %(default)s)')
+
+    parser.add_argument('--radio_model_version', type=str,
+                        default='c-radio_v4-h',
+                        help='RADIO model version when feat_extractor_name=RADIO (default: %(default)s)')
+
+    parser.add_argument('--radio_cache_root', type=str,
+                        default='./model_cache',
+                        help='RADIO/model cache root (torch_hub under it) when feat_extractor_name=RADIO (default: %(default)s)')
 
     parser.add_argument('--sam2_model_type', type=str,
                         default='large',
@@ -137,6 +146,16 @@ def main():
             repo_or_dir=args.repo_or_dir,
             pretrained=args.pretrained
         )
+    elif args.feat_extractor_name == 'RADIO':
+        print('Loading RADIO (C-RADIO v4-H)...')
+        feat_extractor, image_transform = model.radio.load_radio_model(
+            args.device,
+            model_version=args.radio_model_version,
+            cache_root=args.radio_cache_root,
+            source='local',
+        )
+    else:
+        raise ValueError(f"Unsupported feat_extractor_name: {args.feat_extractor_name}")
 
     print('Loading SAM2...')
     sam2_model, sam2_predictor, sam2_mask_generator = model.sam2.load_sam2_components(

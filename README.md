@@ -76,6 +76,7 @@
 ---
 
 ## 🚀 Updates 
+- [x] **\[2026.3.2\]** Add Radiov4 model.
 - [x] **\[2026.2.3\]** Initial release of FSOD-VFM.
 
 ---
@@ -195,6 +196,12 @@ wget https://github.com/IDEA-Research/ChatRex/releases/download/upn-large/upn_la
 sh run_scripts/run_pascal.sh
 ```
 
+**RADIOv4**
+
+```bash
+sh run_scripts/run_pascal_radio.sh
+```
+
 **Tips:**
 
 * Modify `--json_path` for different splits (`split1`, `split2`, `split3`) and shot settings (`1shot`, `5shot`, etc.).
@@ -222,6 +229,12 @@ sh run_scripts/run_pascal.sh
 sh run_scripts/run_coco.sh
 ```
 
+**RADIOv4**
+
+```bash
+sh run_scripts/run_coco_radio.sh
+```
+
 **Tips:**
 
 * Modify `--json_path` for `10shot` or `30shot`.
@@ -237,6 +250,12 @@ sh run_scripts/run_coco.sh
 
 ```bash
 sh run_scripts/run_cdfsod.sh
+```
+
+**RADIOv4**
+
+```bash
+sh run_scripts/run_cdfsod_radio.sh
 ```
 
 **Tips:**
