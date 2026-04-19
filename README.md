@@ -35,7 +35,7 @@
     <img alt="project webpage" src="https://img.shields.io/badge/Webpage-FSODVFM-purple">
   </a>
   <a href="https://github.com/ohMargin/NTIRE2026_CDFSOD">
-    <img alt="3th Winner, NTIRE2026_CDFSOD" src="[https://img.shields.io/github/issues-pr/Intellindust-AI-Lab/FSOD-VFM](https://github.com/ohMargin/NTIRE2026_CDFSOD)">
+    <img alt="3rd Place,CVPR_NTIRE2026_CDFSOD" src="https://img.shields.io/badge/LICENSE-Apache%202.0-yellow">
   </a>
   <a href="https://github.com/Intellindust-AI-Lab/FSOD-VFM/issues">
     <img alt="issues" src="https://img.shields.io/github/issues/Intellindust-AI-Lab/FSOD-VFM?color=olive">
