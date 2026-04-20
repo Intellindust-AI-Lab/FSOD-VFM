@@ -76,6 +76,7 @@
 ---
 
 ## 🚀 Updates 
+- [x] **\[2026.4.20\]** Our solution won 3rd place in the [CVPR NTIRE 2026 CDFSOD Challenge](https://github.com/ohMargin/NTIRE2026_CDFSOD).
 - [x] **\[2026.3.2\]** Add Radiov4 model.
 - [x] **\[2026.2.3\]** Initial release of FSOD-VFM.
 
