@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ohMargin/NTIRE2026_CDFSOD">
+  <a href="https://arxiv.org/abs/2604.11998">
     <img alt="3rd Place" src="https://img.shields.io/badge/3rd_Place-CVPR_NTIRE2026_CDFSOD-yellow">
   </a>
   <a href="https://github.com/Intellindust-AI-Lab/FSOD-VFM/blob/master/LICENSE">
@@ -76,7 +76,7 @@
 ---
 
 ## 🚀 Updates 
-- [x] **\[2026.4.20\]** Our solution won 3rd place in the [CVPR NTIRE 2026 CDFSOD Challenge](https://github.com/ohMargin/NTIRE2026_CDFSOD).
+- [x] **\[2026.4.20\]** Based on our solution FSOD-VFM, **NJUST-KMG** won the 3rd place in the [CVPR NTIRE 2026 CDFSOD Challenge](https://arxiv.org/abs/2604.11998).
 - [x] **\[2026.3.2\]** Add Radiov4 model.
 - [x] **\[2026.2.3\]** Initial release of FSOD-VFM.
 
