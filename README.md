@@ -287,7 +287,7 @@ If you use **FSOD-VFM** in your research, please cite:
 
 ```latex
 @inproceedings{feng2025fsodvfm,
-  title={Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion},
+  title={FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion},
   author={Feng, Chen-Bin and Sha, Youyang and Liu, Longfei and Yu, Yongjun and Vong, Chi Man and Yu, Xuanlong and Shen, Xi},
   booktitle={The Fourteenth International Conference on Learning Representations},
   year={2026}
